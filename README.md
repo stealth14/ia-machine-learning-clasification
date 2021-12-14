@@ -1,4 +1,5 @@
 # ia-machine-learning-clasification
+Ejercicios
 
 [Colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
