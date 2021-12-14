@@ -6,4 +6,4 @@ Video resumen de la materia
 
 [Vimeo](https://vimeo.com/656701598).
 
-[Vimeo](https://vimeo.com/656701598).
+[Streamable](https://streamable.com/yhisf5).
