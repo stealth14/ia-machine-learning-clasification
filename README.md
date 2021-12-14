@@ -1,6 +1,6 @@
 # ia-machine-learning-clasification
 
-[Colab](https://youtu.be/Ry0OlwWPin4).
+[Colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
 
 Video resumen de la materia
